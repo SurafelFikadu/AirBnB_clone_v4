@@ -1,1 +1,1 @@
-web static
+web static for
